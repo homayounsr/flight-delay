@@ -16,7 +16,7 @@ The detailed data was collected through https://www.kaggle.com/code/fabiendaniel
 <br> The original dataset contained 581,907,9 rows and 31 columns but after cleaning the data and just selecting the month of january to decrease the amount of data, there were 469,968 rows and 13 columns.
 
 ## Which airline has the most flights?
-List of all the top 10 highest earners based on the number of days the accommodation is already reserved for the month and the projected revenue.
+This is a list of all the airlines along with the count of their flights. As we can see, WN airline had the highest number of flights among all the airlines. Additionally, I have created a legend for this plot based on another dataset named "airline" using a one-to-many relationship between the two datasets.
 <img src="./output/output.png" style="max-width: 540px"/>
 
 

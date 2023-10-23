@@ -6,10 +6,10 @@
 2. Dealing with time and turn in to date time pattern
 
 # Goals
-1. which airline has the most flights?
-2. At which day the delay was higher?
-3. At what hour the delay was higher for each airline?
-4. Count delays that are less than 5 min, between 5 and 45 min and more than 45 min
+1. Which airline has the most flights?
+2. On which day was the delay highest?
+3. At what hour was the delay highest for each airline?
+4. Count delays that are less than 5 minutes, between 5 and 45 minutes, and more than 45 minutes.
 
 ## Data
 The detailed data was collected through https://www.kaggle.com/code/fabiendaniel/predicting-flight-delays-tutorial/input.

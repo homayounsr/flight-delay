@@ -21,21 +21,21 @@ The detailed data was collected through https://www.kaggle.com/code/fabiendaniel
 
 ## Which airline has the most flights?
 List of all the top 10 highest earners based on the number of days the accommodation is already reserved for the month and the projected revenue.
-<img src="./assets/output.png" style="max-width: 540px"/>
+<img src="./output/output.png" style="max-width: 540px"/>
 
 
 ## At which day the delay was higher?
 These are the top 5 listings with review scores of 5.
-<img src="./assets/output4.png" style="max-width: 540px"/>
+<img src="./output/output4.png" style="max-width: 540px"/>
 
 
 ## At what hour the delay was higher for each airline?
 These are the top 5 listings with review scores of 5.
-<img src="./assets/output3.png" style="max-width: 540px"/>
+<img src="./output/output3.png" style="max-width: 540px"/>
 
 ## Count delays that are less than 5 min, between 5 and 45 min and more than 45 min
 These are the top 5 listings with review scores of 5.
-<img src="./assets/output2.png" style="max-width: 540px"/>
+<img src="./output/output2.png" style="max-width: 540px"/>
 
 
 ## Conclusion

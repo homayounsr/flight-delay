@@ -1,15 +1,11 @@
 
 # Fligh Delay Insights - Python
 
-
-## Goals
 # Preprocessing
-
-1. dealing with null values
+1. Dealing with null values
 2. Dealing with time and turn in to date time pattern
 
 # Goals
-
 1. which airline has the most flights?
 2. At which day the delay was higher?
 3. At what hour the delay was higher for each airline?
@@ -25,12 +21,12 @@ List of all the top 10 highest earners based on the number of days the accommoda
 
 
 ## At which day the delay was higher?
-These are the top 5 listings with review scores of 5.
+This plot is showing the count of delay for all airlines based on days. We can see most the majarity of delays happend on monday. But is that mean mos 
 <img src="./output/output4.png" style="max-width: 540px"/>
 
 
 ## At what hour the delay was higher for each airline?
-These are the top 5 listings with review scores of 5.
+This plot is a heatmap that visualizes the count of flight delays for different airlines across various days of the week. I chose to use a heatmap because I had three variables, and I wanted to examine the relationship between these three variables. Therefore, a heatmap was a suitable choice for this analysis. As we can see in the plot, the WN airline had the highest number of delays, and these delays were more frequent on Fridays compared to other days.
 <img src="./output/output3.png" style="max-width: 540px"/>
 
 ## Count delays that are less than 5 min, between 5 and 45 min and more than 45 min

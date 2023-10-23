@@ -1,6 +1,6 @@
 
 # Fligh Delay Insights - Python
-In this project, I analyzed flight delays using Python, and I leveraged libraries such as pandas, matplotlib, and seaborn. I made thoughtful decisions about the types of plots to create, considering whether the variables were categorical or numerical. Additionally, I performed a preprocessing step to handle date and time data. The original dataset had these values separated into different columns, which hindered the use of pandas functions for working with date and time information.
+In this project, I analyzed flight delays using Python, and I leveraged libraries such as pandas, matplotlib, and seaborn. I made thoughtful decisions about the types of plots to create, considering whether the variables were categorical or numerical in order to show the relation between these variables. Additionally, I performed a preprocessing step to handle date and time data. The original dataset had these values separated into different columns, which hindered the use of pandas functions for working with date and time information.
 # Preprocessing
 1. Dealing with null values
 2. Dealing with time and turn in to date time pattern

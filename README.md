@@ -21,10 +21,9 @@ List of all the top 10 highest earners based on the number of days the accommoda
 
 
 ## At which day the delay was higher?
-This plot is showing the count of delay for all airlines based on days. We can see most the majarity of delays happend on monday. But is that mean mos 
-<img src="./output/output4.png" style="max-width: 540px"/>
-
-
+This plot displays the total count of delays for all airlines based on the days of the week. We can observe that the majority of delays occurred on Friday. 
+<img src="./output/output44.png" style="max-width: 540px"/>
+However, a question arises: which airline had the most delays among all the airlines on Friday?
 ## At what hour the delay was higher for each airline?
 This plot is a heatmap that visualizes the count of flight delays for different airlines across various days of the week. I chose to use a heatmap because I had three variables, and I wanted to examine the relationship between these three variables. Therefore, a heatmap was a suitable choice for this analysis. As we can see in the plot, the WN airline had the highest number of delays, and these delays were more frequent on Fridays compared to other days.
 <img src="./output/output3.png" style="max-width: 540px"/>

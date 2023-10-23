@@ -34,7 +34,7 @@ These are the top 5 listings with review scores of 5.
 <img src="./output/output3.png" style="max-width: 540px"/>
 
 ## Count delays that are less than 5 min, between 5 and 45 min and more than 45 min
-These are the top 5 listings with review scores of 5.
+This plot shows the number of different types of flight delays: those under 5 minutes, those between 5 and 45 minutes, and those over 45 minutes. Regardless of the airline, long delays (over 45 minutes) make up only a small percentage. However, the proportion of delays in these categories varies by airline. For example, SkyWest Airlines has about 30% fewer long delays compared to medium delays (5-45 minutes), whereas Southwest Airlines has four times fewer long delays than medium delays.
 <img src="./output/output2.png" style="max-width: 540px"/>
 
 
